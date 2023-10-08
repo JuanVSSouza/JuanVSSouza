@@ -2,7 +2,6 @@
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no e-mail: juanvictor513@gmail.com
-- 😄 Pronomes: Ele/Dele
 ##
 <div>
 

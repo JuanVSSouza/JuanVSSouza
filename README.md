@@ -28,10 +28,3 @@ Desenvolvedor Front-end
 </div>
 
 ##
-<div>
-  
-### Portfólio
-
-  <a href="https://portfolio-juan-souza.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  
-</div>
